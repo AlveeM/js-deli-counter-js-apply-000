@@ -27,6 +27,7 @@ function takeANumberNoArr() {
 console.log(ticketNumber);
 takeANumberNoArr();
 takeANumberNoArr();
+takeANumberNoArr();
 console.log(ticketNumber);
 
 
