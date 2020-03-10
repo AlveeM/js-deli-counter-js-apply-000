@@ -25,7 +25,9 @@ function takeANumberNoArr() {
 }
 
 console.log(ticketNumber);
-
+takeANumberNoArr();
+takeANumberNoArr();
+console.log(ticketNumber);
 
 
 function nowServing(line) {
