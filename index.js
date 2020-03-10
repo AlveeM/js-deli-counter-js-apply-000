@@ -1,8 +1,12 @@
-function takeANumber(line, name) {
-  line.push(name);
-  let message = `Welcome, ${name}. You are number ${line.length} in line.`;
-  return message;
-}
+// function takeANumber(line, name) {
+//   line.push(name);
+//   let message = `Welcome, ${name}. You are number ${line.length} in line.`;
+//   return message;
+// }
+
+// counter gives the customer a number
+// starts at 1
+
 
 function nowServing(line) {
   if (line.length < 1) {
