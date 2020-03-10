@@ -15,7 +15,7 @@ let ticketNumber = 0;
 // declare takeANumberNoArr
 function takeANumberNoArr() {
   // declare message variable
-  let message = `Welcome, you are number ${line} in line.`
+  let message = `Welcome, you are number ${ticketNumber} in line.`
   // log welcome message
   console.log(message);
   // increment global coutner
