@@ -19,10 +19,12 @@ function takeANumberNoArr() {
   // log welcome message
   console.log(message);
   // increment global coutner
-  ticketNumber += ticketNumber;
+  ticketNumber += 1;
   // return the counter 
   return ticketNumber;
 }
+
+
 
 
 function nowServing(line) {
